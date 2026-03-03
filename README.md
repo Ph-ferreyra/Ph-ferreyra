@@ -1,25 +1,16 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Henrique Ferreira Rolim</h1>
+<h1 align="center"> Olá, eu sou o Pedro Henrique Ferreira Rolim</h1>
 
 <p align="center">
-  <strong>Estagiário em Segurança da Informação | Cybersecurity | QA | Melhoria Contínua</strong>
-</p>
+  <strong>Estagiário em Segurança da Informação | Cybersecurity 
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x3/FF0000/FF0000?text=" alt="divider">
-</p>
-
 ## 🛡️ Sobre mim
 
-Sou estagiário na área de **Segurança de TI na Vivo**, atualmente estudando **Cybersegurança** e **Quality Assurance**
+Sou estagiário na área de **Segurança de TI na Vivo**, atualmente estudando **Cybersegurança** e **Quality Assurance** 
 Tenho certificação **Yellow Belt** e estou construindo minha base técnica desenvolvendo estudos, automações simples e documentação de segurança.
 
-Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplicar boas práticas.
-
-<p align="center">
-  <img src="https://via.placeholder.com/1000x3/FF0000/FF0000?text=" alt="divider">
-</p>
+Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplicar boas práticas em tudo o que faço.
 
 ---
 
@@ -38,30 +29,25 @@ Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplica
 
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x3/FF0000/FF0000?text=" alt="divider">
-</p>
-
 ---
 
 ## 📘 O que você vai encontrar por aqui
 
-- Estudos e anotações sobre **Cybersegurança**
-- Pequenos experimentos e automações *(em breve)*
+- Meus **estudos de Cybersegurança**
+- Projetos simples de automação e segurança (em breve)
+- Documentações e pequenos experimentos técnicos
 
-> Meu portfólio ainda está em crescimento — cada repositório é parte da minha evolução.
-
-<p align="center">
-  <img src="https://via.placeholder.com/1000x3/FF0000/FF0000?text=" alt="divider">
-</p>
+> Ainda estou construindo meu portfólio — mas cada repositório aqui representa uma etapa da minha evolução profissional.
 
 ---
 
 ## 📫 Contato
 
-- ✉️ **Email:** *adicione aqui*  
-- 🔗 **LinkedIn:** *adicione aqui*
+Você pode falar comigo através do:
 
-<p align="center">
-  🚀 <strong>Sempre aprendendo, sempre evoluindo.</strong>
-</p>
+- **Email:** *henrqyue77pedro@gmail.com*  
+- **LinkedIn:** *www.linkedin.com/in/pedro-henrique-ferreira-rolim*
+
+---
+
+<p align="center">🚀 Sempre aprendendo, sempre evoluindo.</p>
