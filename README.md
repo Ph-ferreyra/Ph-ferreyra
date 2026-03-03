@@ -1,33 +1,41 @@
 <h1 align="center"> Olá, eu sou o Pedro Henrique Ferreira Rolim</h1>
 
 <p align="center">
-  <strong>Estagiário em Segurança da Informação | Cybersecurity 
+  <strong> Segurança da Informação 
 
 ---
 
 ## 🛡️ Sobre mim
 
-Sou estagiário na área de **Segurança de TI na Vivo**, atualmente estudando **Cybersegurança** e **Quality Assurance** 
+Sou estagiário na área de **Segurança de TI na Vivo**, atualmente cursando Ciência da Computação e estou estudando **Cybersegurança** e **Quality Assurance** 
 Tenho certificação **Yellow Belt** e estou construindo minha base técnica desenvolvendo estudos, automações simples e documentação de segurança.
 
 Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplicar boas práticas em tudo o que faço.
 
 ---
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,c,cs,godot" />
+</a>
 
-## 🏅 Badges
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 
-<p align="center">
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+</a>
 
-  <!-- Cybersecurity Badge -->
-  <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
+## 🏅 Certificados
 
-  <!-- Infosec Badge -->
-  <img src="https://img.shields.io/badge/Infosec-success?style=for-the-badge&logo=probot&logoColor=white" />
+<p align="left">
 
   <!-- Yellow Belt Badge -->
   <a href="#" style="text-decoration:none;">
    
-<img width="50" height="50" alt="Badge_YB" src="https://github.com/user-attachments/assets/022fa6ba-ff3d-4053-ad27-f4f2fcc39f8f" />
+<img width="70" height="70" alt="Badge_YB" src="https://github.com/user-attachments/assets/022fa6ba-ff3d-4053-ad27-f4f2fcc39f8f" />
 
 </p>
 
