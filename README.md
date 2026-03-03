@@ -43,11 +43,22 @@ Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplica
 
 ## 📫 Contato
 
-Você pode falar comigo através do:
+<p align="center">
 
-- **Email:** *henrqyue77pedro@gmail.com*  
-- **LinkedIn:** *www.linkedin.com/in/pedro-henrique-ferreira-rolim*
+  <!-- Email -->
+  <a href="mailto:henrqyue77pedro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
----
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pedro-henrique-ferreira-rolim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <!-- Instagram -->
+  <a href="https://instagram.com/ph_ferreyra_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</p>
 <p align="center">🚀 Sempre aprendendo, sempre evoluindo.</p>
