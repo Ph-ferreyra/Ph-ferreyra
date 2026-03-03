@@ -7,7 +7,8 @@
 
 ## 🛡️ Sobre mim
 
-Sou estagiário na área de **Segurança de TI na Vivo**, atualmente cursando Ciência da Computação e estou estudando **Cybersegurança** e **Quality Assurance** 
+Sou estagiário na área de **Segurança de TI na Vivo**, atualmente cursando Ciência da Computação e estou estudando **Cybersegurança** e **Quality Assurance**.
+
 Tenho certificação **Yellow Belt** e estou construindo minha base técnica desenvolvendo estudos, automações simples e documentação de segurança.
 
 Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplicar boas práticas em tudo o que faço.
