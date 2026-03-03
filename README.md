@@ -19,13 +19,15 @@ Mesmo em início de carreira, busco sempre aprender, melhorar processos e aplica
 <p align="center">
 
   <!-- Cybersecurity Badge -->
-  <img src="https://img.shields.io/badge/Cybersecurity-Expert%20in%20Progress-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
 
   <!-- Infosec Badge -->
-  <img src="https://img.shields.io/badge/Infosec-Learning-success?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infosec-success?style=for-the-badge&logo=probot&logoColor=white" />
 
   <!-- Yellow Belt Badge -->
-  <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-F7E017?style=for-the-badge&logo=google%20scholar&logoColor=black" />
+  <a href="#" style="text-decoration:none;">
+   
+<img width="50" height="50" alt="Badge_YB" src="https://github.com/user-attachments/assets/022fa6ba-ff3d-4053-ad27-f4f2fcc39f8f" />
 
 </p>
 
